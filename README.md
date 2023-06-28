@@ -1,2 +1,2 @@
 # Chrome-Dino-Clone
-I'm just clone for learn.
+I'm just clone to learn.
